@@ -1,0 +1,9 @@
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Release\Analyzer.exe.config
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Release\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Release\Analyzer.pdb
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.Form1.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.Properties.Resources.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.csproj.GenerateResource.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.csproj.CoreCompileInputs.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Release\Analyzer.pdb

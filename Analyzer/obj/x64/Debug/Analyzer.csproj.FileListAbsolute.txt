@@ -1,0 +1,20 @@
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\x64\Debug\Analyzer.exe.config
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\x64\Debug\Analyzer.exe
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\x64\Debug\Analyzer.pdb
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.Form1.resources
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.Properties.Resources.resources
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.exe
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.pdb
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csprojResolveAssemblyReference.cache
+D:\Amavet - Copy\Analyzer\Analyzer\bin\x64\Debug\Analyzer.exe.config
+D:\Amavet - Copy\Analyzer\Analyzer\bin\x64\Debug\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\bin\x64\Debug\Analyzer.pdb
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csprojAssemblyReference.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.Form1.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.Properties.Resources.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\obj\x64\Debug\Analyzer.pdb

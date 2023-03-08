@@ -1,0 +1,50 @@
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+c:\users\admin\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+c:\users\admin\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+D:\Amavet - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+D:\Amavet - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+D:\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+\\Nasea4381\zaloha\JA-Palko\Amavet\2018\Analyzer - ALL versions\Amavet - Copy - Copy - Copy\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
