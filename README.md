@@ -1,1 +1,1 @@
-DeltaFinder finds edge of shapes in colorful image using difference in color relative to surrounding squares of colors.
+DeltaFinder finds edge of shapes in colorful image using difference in color relative to surrounding colors of squares of pixels.
